@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "That Should Be Me",
+  "base_artist": "Justin Bieber",
+  "createdAt": "2026-03-09T17:32:40.775823Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "That Should Be Me",
+      "artist": "Maddi Jane",
+      "has_synced": true,
+      "path": "select/01_That_Should_Be_Me_Maddi_Jane.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "That Should Be Me",
+      "artist": "Justin Bieber",
+      "has_synced": true,
+      "path": "select/02_That_Should_Be_Me_Justin_Bieber.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "That Should Be Me",
+      "artist": "Kira",
+      "has_synced": false,
+      "path": "select/03_That_Should_Be_Me_Kira.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "That Should Be Me (Acoustic)",
+      "artist": "J Rice",
+      "has_synced": false,
+      "path": "select/04_That_Should_Be_Me_(Acoustic)_J_Rice.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "That Should Be Me (acoustic)",
+      "artist": "Maddi Jane",
+      "has_synced": true,
+      "path": "select/05_That_Should_Be_Me_(acoustic)_Maddi_Jane.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "That Should Be Me (acoustic)",
+      "artist": "Justin Bieber",
+      "has_synced": true,
+      "path": "select/06_That_Should_Be_Me_(acoustic)_Justin_Bieber.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "That Should Be Me",
+      "artist": "Artie J",
+      "has_synced": false,
+      "path": "select/07_That_Should_Be_Me_Artie_J.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "That Should Be Me",
+      "artist": "Krissy & Ericka",
+      "has_synced": true,
+      "path": "select/08_That_Should_Be_Me_Krissy_&_Ericka.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Justin Bieber - That Should Be Me (slowed + reverb)",
+      "artist": "Gus",
+      "has_synced": true,
+      "path": "select/09_Justin_Bieber_-_That_Should_Be_Me_(slowed_+_reverb)_Gus.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "That Should Be Me",
+      "artist": "Justin Bieber",
+      "has_synced": false,
+      "path": "select/pl_01_That_Should_Be_Me_Justin_Bieber.txt"
+    }
+  ]
+}
